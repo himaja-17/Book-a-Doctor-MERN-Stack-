@@ -14,7 +14,7 @@ To set up BloodLife locally, follow these steps:
 
 - Clone the repository:
 
-      git clone https://github.com/SUNEELCHOWDARY/nm_book_a_doc_mern.git
+      git clone https://github.com/himaja-17/Book-a-Doctor-MERN-Stack-.git
       
 - Install the required dependencies for backend:
 
